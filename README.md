@@ -2,6 +2,8 @@
 
 This application provides a user-friendly interface for redacting sensitive information from PDF files using GLiNER for entity recognition.
 
+![Before and After Redaction](./Before-After.gif)
+
 ## Setup
 
 1. Clone the repository:
