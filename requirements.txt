@@ -1,0 +1,5 @@
+PyQt6>=6.5.0
+gliner
+pdfplumber
+PyMuPDF
+python-docx
