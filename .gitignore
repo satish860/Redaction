@@ -68,3 +68,4 @@ venv.bak/
 .DS_Store
 Thumbs.db
 gliner_pdf_redaction.egg-info/
+ui-pdf-redactor/node_modules/*
